@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings and Films
 uid: 3f0075a7-4b14-325c-8b4e-d2a5fc6d98e6
 ---
@@ -634,9 +637,9 @@ Rethinking Nature in a Nuclear Age
 
 ### Readings
 
-Carson, Rachel. "A Fable For Tomorrow." Chapter 1 in _Silent Spring._ 50th Anniversary Edition. Houghton Mifflin Company, 2002. ISBN: 9780618249060. \[Preview with [Google Books](http://books.google.com/books?id=HeR1l0V0r54C&pg=PA1=onepage)\]
+Carson, Rachel. "A Fable For Tomorrow." Chapter 1 in _Silent Spring._ 50{{< sup "th" >}} Anniversary Edition. Houghton Mifflin Company, 2002. ISBN: 9780618249060. \[Preview with [Google Books](http://books.google.com/books?id=HeR1l0V0r54C&pg=PA1=onepage)\]
 
-———. "The Obligation to Endure." Chapter 2 in _Silent Spring._ 50th Anniversary Edition. Houghton Mifflin Company, 2002. ISBN: 9780618249060. \[Preview with [Google Books](http://books.google.com/books?id=HeR1l0V0r54C&pg=PA5=onepage)\]
+———. "The Obligation to Endure." Chapter 2 in _Silent Spring._ 50{{< sup "th" >}} Anniversary Edition. Houghton Mifflin Company, 2002. ISBN: 9780618249060. \[Preview with [Google Books](http://books.google.com/books?id=HeR1l0V0r54C&pg=PA5=onepage)\]
 
 May, Timothy. "The End of Enthusiasm: Science and Technology." In _The Columbia Guide to American Life in the 1960s._ Edited by David Farber and Beth Bailey. Columbia University Press, 2003. ISBN: 9780231113731.
 
@@ -650,7 +653,7 @@ Dr. Ehrlich, Paul R. "The Problem." Chapter 1 in _The Population Bomb_. Ballanti
 
 ### Optional
 
-Carson, Rachel. "Elixirs of Death." Chapter 3 in _Silent Spring._ 50th Anniversary Edition. Houghton Mifflin Company, 2002. ISBN: 9780618249060. \[Preview with [Google Books](http://books.google.com/books?id=HeR1l0V0r54C&pg=PA15=onepage)\]
+Carson, Rachel. "Elixirs of Death." Chapter 3 in _Silent Spring._ 50{{< sup "th" >}} Anniversary Edition. Houghton Mifflin Company, 2002. ISBN: 9780618249060. \[Preview with [Google Books](http://books.google.com/books?id=HeR1l0V0r54C&pg=PA15=onepage)\]
 
 Holden, Constance. "[Ehrlich versus Commoner: Environmental Fallout](http://dx.doi.org/10.1126/science.177.4045.245 )." _Science, New Series_ 177, no. 4045 (1972): 245–47.
 
