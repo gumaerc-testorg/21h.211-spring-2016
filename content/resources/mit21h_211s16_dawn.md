@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Films Guides
 parent_type: CourseSection
+parent_uid: 35acf6f0-05b5-e15b-826d-7a718c0d0458
 resourcetype: Document
 title: '21H.211S16 U.S. in the Nuclear Age - Reading Guides: Dawn of Nuclear Age'
 uid: c73889c5-a6bd-6994-89e3-52cb9a442af6
