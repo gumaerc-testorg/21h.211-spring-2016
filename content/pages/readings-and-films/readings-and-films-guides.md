@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guides to accompany the readings and films for
+  the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ READINGS AND FILMS GUIDES
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[The Dawn of the Nuclear Age (PDF)]({{< baseurl >}}/resources/mit21h_211s16_dawn)
+{{% resource_link c73889c5-a6bd-6994-89e3-52cb9a442af6 "The Dawn of the Nuclear Age (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -41,7 +43,7 @@ READINGS AND FILMS GUIDES
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Duck and Cover: Civil Defense (PDF)]({{< baseurl >}}/resources/mit21h_211s16_duck)
+{{% resource_link 76ef1859-2b25-b5ef-120d-724566c14fb2 "Duck and Cover: Civil Defense (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,7 +52,7 @@ READINGS AND FILMS GUIDES
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Domestic Containment and the Nuclear Family (PDF)]({{< baseurl >}}/resources/mit21h_211s16_domestic)
+{{% resource_link 380b4a04-2704-7578-9f37-dd5189b8e612 "Domestic Containment and the Nuclear Family (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +61,7 @@ READINGS AND FILMS GUIDES
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[McCarthyism and the Red Scare (PDF)]({{< baseurl >}}/resources/mit21h_211s16_mccarthyism)
+{{% resource_link ee41d7d4-e847-4682-d96b-5b17308fb367 "McCarthyism and the Red Scare (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +70,7 @@ READINGS AND FILMS GUIDES
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Sex, Gender, and the Lavender Scare (PDF)]({{< baseurl >}}/resources/mit21h_211s16_sex)
+{{% resource_link 60f39930-37b8-3f47-5efc-0e25ed488ceb "Sex, Gender, and the Lavender Scare (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +79,7 @@ READINGS AND FILMS GUIDES
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[The Emergence of Computing Technology (PDF)]({{< baseurl >}}/resources/mit21h_211s16_technology)
+{{% resource_link ac786c22-57b3-55c3-2ca1-619a9c069337 "The Emergence of Computing Technology (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +88,7 @@ READINGS AND FILMS GUIDES
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Organization Men and Their Critics (PDF)]({{< baseurl >}}/resources/mit21h_211s16_organization)
+{{% resource_link 562907eb-fb70-ff50-6200-3261190072c7 "Organization Men and Their Critics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +97,7 @@ READINGS AND FILMS GUIDES
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Suburbanization, White Flight, and Urban Crisis (PDF)]({{< baseurl >}}/resources/mit21h_211s16_suburbanizat)
+{{% resource_link 1f981893-d82b-a24c-c0ef-bba4529c4051 "Suburbanization, White Flight, and Urban Crisis (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +106,7 @@ READINGS AND FILMS GUIDES
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[The Malling of America (PDF)]({{< baseurl >}}/resources/mit21h_211s16_malling)
+{{% resource_link 11634511-9aa3-7411-8aaa-3495b37696b0 "The Malling of America (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +115,7 @@ READINGS AND FILMS GUIDES
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Delinquents and Rebels: The 1950s as Prelude to the 1960s (PDF)]({{< baseurl >}}/resources/mit21h_211s16_delinquents)
+{{% resource_link 04fbdef7-45d0-38a8-9e28-e9da24736adc "Delinquents and Rebels: The 1950s as Prelude to the 1960s (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +124,7 @@ READINGS AND FILMS GUIDES
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Rethinking Nature in a Nuclear Age (PDF)]({{< baseurl >}}/resources/mit21h_211s16_nature)
+{{% resource_link ae1d26b8-3b0f-7300-137d-026e48b3d40a "Rethinking Nature in a Nuclear Age (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +133,7 @@ READINGS AND FILMS GUIDES
 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Legacies of the Cold War and the Unfolding Nuclear Age (PDF)]({{< baseurl >}}/resources/mit21h_211s16_legacies)
+{{% resource_link 9fe24d31-1803-9c72-622e-5db2f97996cf "Legacies of the Cold War and the Unfolding Nuclear Age (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
