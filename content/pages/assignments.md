@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the writing assignments for the
+  course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ uid: 3a36951b-976d-9d09-0177-1555b2d317ac
 Unit Papers
 -----------
 
-Over the course of the semester, students will be required to turn in three short papers, each 4–6 pages in length. Each paper will respond to one of the six course units listed in the [Calendar]({{< baseurl >}}/pages/calendar) section. Students may choose which three units to write on.
+Over the course of the semester, students will be required to turn in three short papers, each 4–6 pages in length. Each paper will respond to one of the six course units listed in the {{% resource_link ef94033c-deaf-5cbb-3b08-46ac614dd617 "Calendar" %}} section. Students may choose which three units to write on.
 
 Papers should be structured around an analysis of one or more primary sources assigned over the course of the unit. Papers will be due on the Friday following the last class meeting for each unit.
 
