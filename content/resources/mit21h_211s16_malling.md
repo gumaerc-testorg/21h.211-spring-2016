@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding the United States in the
   nuclear age: Readings.'
 file: /courses/21h-211-the-united-states-in-the-nuclear-age-spring-2016/116345119aa374118aaa3495b37696b0_MIT21H_211S16_Malling.pdf
+file_size: 118202
 file_type: application/pdf
 learning_resource_types:
 - Readings
