@@ -69,7 +69,7 @@ The Dawn of the Nuclear Age
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262530767) Del Sesto, Stephen L. "Wasn't The Future of Nuclear Energy Wonderful?" Chapter 3 in *Imagining Tomorrow: History, Technology, and the American Future*. Edited by Joseph J. Corn. MIT Press, 1988. ISBN: 9780262530767.
 
-Weiner, Norbert. "[A Scientist Rebels](http://connection.ebscohost.com/c/letters/20836656/scientist-rebels)." *Atlantic Monthly*, January 1947.
+Weiner, Norbert. ["A Scientist Rebels." (PDF)](https://cdn.theatlantic.com/media/archives/1947/01/179-1/132381596.pdf) *Atlantic Monthly*, January 1947.
 
 Winkler, Allan M. "Origins of the Atomic Age." Chapter 1 in *Life Under A Cloud: American Anxiety about the Atom*. Oxford University Press, 1993. ISBN: 9780195078213.
 
