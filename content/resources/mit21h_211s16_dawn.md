@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding the United States in the
   nuclear age: Readings.'
-file: /ol-ocw-studio-app/courses/21h-211-the-united-states-in-the-nuclear-age-spring-2016/c73889c5a6bd699489e352cb9a442af6_MIT21H_211S16_Dawn.pdf
+file: /courses/21h-211-the-united-states-in-the-nuclear-age-spring-2016/c73889c5a6bd699489e352cb9a442af6_MIT21H_211S16_Dawn.pdf
 file_size: 112812
 file_type: application/pdf
 learning_resource_types:
