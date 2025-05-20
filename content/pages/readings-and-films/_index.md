@@ -477,7 +477,7 @@ Legacies of the Cold War and the Unfolding Nuclear Age
 
 May, Elaine Tyler. "[Security Against Democracy: The Legacy of the Cold War at Home](http://jah.oxfordjournals.org/content/97/4/939.short)." *Journal of American History* 97, no. 4 (2011): 939–57.
 
-Rogers, Paul. ["A Century on the Edge: From Cold War to Hot World, 1945–2045." (PDF)](http://www.ciaonet.org/attachments/24263/uploads) *International Affairs* 90, no. 1 (2014): 93–106.
+Rogers, Paul. ["A Century on the Edge: From Cold War to Hot World, 1945–2045." (PDF)](https://ciaotest.cc.columbia.edu/journals/riia/v90i1/f_0029981_24263.pdf) *International Affairs* 90, no. 1 (2014): 93–106.
 
 *Skim*
 

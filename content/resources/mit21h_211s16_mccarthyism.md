@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding the United States in the
   nuclear age: Readings.'
-file: /ol-ocw-studio-app/courses/21h-211-the-united-states-in-the-nuclear-age-spring-2016/ee41d7d4e8474682d96b5b17308fb367_MIT21H_211S16_McCarthyism.pdf
+file: /courses/21h-211-the-united-states-in-the-nuclear-age-spring-2016/ee41d7d4e8474682d96b5b17308fb367_MIT21H_211S16_McCarthyism.pdf
 file_size: 128860
 file_type: application/pdf
 learning_resource_types:
