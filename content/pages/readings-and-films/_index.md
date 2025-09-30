@@ -43,9 +43,9 @@ Brinkley, Alan. "The Illusion of Unity in Cold War Culture." Chapter 3 in *Rethi
 
 Hodgson, Godfrey. "The Ideology of Liberal Consensus." Chapter 4 in *America in Our Time: From World War II To Nixon-What Happened and Why*. Princeton University Press, 2005. ISBN: 9780691122885.
 
-Howe, Irving. "[This Age of Conformity](https://www.dissentmagazine.org/online_articles/irving-howe-voice-still-heard-this-age-of-conformity)." *Partisan Review* 21, no. 1 (1954): 7–33.
+Howe, Irving. "{{% resource_link "fa1b8eb1-0813-4265-8d42-a9c99f6a6729" "This Age of Conformity" %}}." *Partisan Review* 21, no. 1 (1954): 7–33.
 
-Isaac, Joel. "[The Human Sciences in Cold War America](http://dx.doi.org/10.1017/S0018246X07006334)." *The Historical Journal* 50, no. 3 (2007): 725–46.
+Isaac, Joel. "{{% resource_link "19dcdd04-debb-4c7f-801a-bb5a2e57aabb" "The Human Sciences in Cold War America" %}}." *The Historical Journal* 50, no. 3 (2007): 725–46.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Unit 1 -** **The Bomb and Atomic Culture**
@@ -67,9 +67,9 @@ The Dawn of the Nuclear Age
 
 \[B\] Chapter 5: 'To the Village Square': The Public Agenda of the Scientist's Movement.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262530767) Del Sesto, Stephen L. "Wasn't The Future of Nuclear Energy Wonderful?" Chapter 3 in *Imagining Tomorrow: History, Technology, and the American Future*. Edited by Joseph J. Corn. MIT Press, 1988. ISBN: 9780262530767.
+{{% resource_link "92faf52e-d2ac-455c-ba2c-00fbf75df1e2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Del Sesto, Stephen L. "Wasn't The Future of Nuclear Energy Wonderful?" Chapter 3 in *Imagining Tomorrow: History, Technology, and the American Future*. Edited by Joseph J. Corn. MIT Press, 1988. ISBN: 9780262530767.
 
-Weiner, Norbert. ["A Scientist Rebels." (PDF)](https://cdn.theatlantic.com/media/archives/1947/01/179-1/132381596.pdf) *Atlantic Monthly*, January 1947.
+Weiner, Norbert. {{% resource_link "3f3c408d-c556-4641-98af-83118c10ad2d" "\"A Scientist Rebels.\" (PDF)" %}} *Atlantic Monthly*, January 1947.
 
 Winkler, Allan M. "Origins of the Atomic Age." Chapter 1 in *Life Under A Cloud: American Anxiety about the Atom*. Oxford University Press, 1993. ISBN: 9780195078213.
 
@@ -81,11 +81,11 @@ Duck and Cover: Civil Defense
 
 *Reading*
 
-Davis, Tracy C. "Civil Defense Concepts and Planning." Chapter 1 in *Stages of Emergency: Cold War Nuclear Civil Defense*. Duke University Press Books, 2007. ISBN: 9780822339700. \[Preview with [Google Books](http://books.google.com/books?id=BruPwSTVv-IC&pg=PA9=onepage)\]
+Davis, Tracy C. "Civil Defense Concepts and Planning." Chapter 1 in *Stages of Emergency: Cold War Nuclear Civil Defense*. Duke University Press Books, 2007. ISBN: 9780822339700. \[Preview with {{% resource_link "3bb8cc98-a0da-4ad4-915d-e58bdbb7959f" "Google Books" %}}\]
 
 *Film*
 
-[*The Atomic Cafe*](http://www.filmsforaction.org/watch/the-atomic-cafe/). Directed by Jayne Loader, Kevin Rafferty, and Pierce Rafferty. Color and Black and White, 85 min. 1982.
+{{% resource_link "89c017d4-2f68-468e-8ba6-b2027d72aab9" "*The Atomic Cafe*" %}}. Directed by Jayne Loader, Kevin Rafferty, and Pierce Rafferty. Color and Black and White, 85 min. 1982.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -99,9 +99,9 @@ Mrs. Carnegie, Dale. "How to Help Your Husband Get Ahead." Chapter 23 in *Women'
 
 May, Elaine Tyler. "Explosive Issues: Sex, Women, and the Bomb." Chapter 8 in *Recasting America: Culture and Politics in the Age of Cold War*. Edited by Lary May. University of Chicago Press, 1992.
 
-———. "Cold War-Warm Hearth: Politics and the Family in Postwar America." Chapter 6 in *The Rise and Fall of the New Deal Order, 1930–1980*. Edited by Steve Fraser and Gary Gerstle. Princeton University Press, 1990. ISBN: 9780691006079. \[Preview with [Google Books](http://books.google.com/books?id=yd4GqkP5XYgC&pg=PA153=onepage)\]
+———. "Cold War-Warm Hearth: Politics and the Family in Postwar America." Chapter 6 in *The Rise and Fall of the New Deal Order, 1930–1980*. Edited by Steve Fraser and Gary Gerstle. Princeton University Press, 1990. ISBN: 9780691006079. \[Preview with {{% resource_link "3f2a452e-0a54-4dde-99d7-5e164b942244" "Google Books" %}}\]
 
-Spigel, Lynn. "Television and the Family Circle." Chapter 2 in *Make Room for TV: Television and the Family Ideal in Postwar America*. University of Chicago Press, 1992. ISBN: 9780226769677. \[Preview with [Google Books](http://books.google.com/books?id=ljD3yBFNuEUC&pg=PA36=onepage)\]
+Spigel, Lynn. "Television and the Family Circle." Chapter 2 in *Make Room for TV: Television and the Family Ideal in Postwar America*. University of Chicago Press, 1992. ISBN: 9780226769677. \[Preview with {{% resource_link "a802a102-4f7a-4fc4-8eb1-f94b05f35897" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Unit 2 - Enemies from Within: The Culture and Politics of Security**
@@ -131,9 +131,9 @@ McCarthyism and the Red Scare
 
 \[S\] Chapter 16: The Legacy of McCarthyism.
 
-"['Enemies from Within': Senator Joseph R. McCarthy's Accusation of Disloyalty - February 9, 1950](http://historymatters.gmu.edu/d/6456)," *History Matters*, George Mason University.
+"{{% resource_link "69df7803-66e5-4a4e-a539-a409e4cd4abc" "'Enemies from Within': Senator Joseph R. McCarthy's Accusation of Disloyalty - February 9, 1950" %}}," *History Matters*, George Mason University.
 
-"['You Are the Un-Americans, and You Ought to be Ashamed of Yourselves': Paul Robeson Appears Before HUAC - June 12, 1956](http://historymatters.gmu.edu/d/6440/)," *History Matters*, George Mason University.
+"{{% resource_link "46bd3f57-5002-414b-8ae3-9e3ad117e346" "'You Are the Un-Americans, and You Ought to be Ashamed of Yourselves': Paul Robeson Appears Before HUAC - June 12, 1956" %}}," *History Matters*, George Mason University.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 N/A
@@ -147,7 +147,7 @@ Scheinfeld, Amram. "Are American Moms a Menace?" Chapter 19 in *Women's Magazine
 
 *Film*
 
-[*The Manchurian Candidate*](http://www.imdb.com/title/tt0056218/?ref_=nv_sr_3). Directed by John Frankenheimer. Black and White, 126 min. 1962.
+{{% resource_link "6bd70b79-18d3-4010-bbb0-01599abf3d5f" "*The Manchurian Candidate*" %}}. Directed by John Frankenheimer. Black and White, 126 min. 1962.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -171,7 +171,7 @@ Psychology in an Age of Anxiety
 
 Dunne, Matthew W. "The Origins of Brainwashing." Chapter 1 in *A Cold War State of Mind: Brainwashing and Postwar American Society*. University of Massachusetts Press, 2013. ISBN: 9781625340412.
 
-Menand, Louis. "Freud, Anxiety, and the Cold War." Chapter 7 in *After Freud Left: A Century of Psychoanalysis in America*. Edited by John Burnham. University of Chicago Press, 2012. ISBN: 9780226211862. \[Preview with [Google Books](http://books.google.com/books?id=Vcg1PF7u57oC&pg=PA189=onepage)\]
+Menand, Louis. "Freud, Anxiety, and the Cold War." Chapter 7 in *After Freud Left: A Century of Psychoanalysis in America*. Edited by John Burnham. University of Chicago Press, 2012. ISBN: 9780226211862. \[Preview with {{% resource_link "c5b9b14f-2f5a-4376-ab03-41d0f7659590" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Unit 3 - The Military-Industrial-Academic Complex**
@@ -183,13 +183,13 @@ The Emergence of Computing Technology
 
 *Readings*
 
-Bush, Vannevar. "[As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)." *The Atlantic*, July 1945.
+Bush, Vannevar. "{{% resource_link "bcf3d38c-52d8-4408-97a8-b35224fb5f5c" "As We May Think" %}}." *The Atlantic*, July 1945.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262550284) Edwards, Paul N. "Why Build Computers? The Military Role in Computer Research." Chapter 2 in *The Closed World: Computers and the Politics of Discourse in Cold War America*. MIT Press, 1997. ISBN: 9780262550284. \[Preview with [Google Books](http://books.google.com/books?id=LkJgQOR4s4oC&pg=PA43=onepage)\]
+{{% resource_link "ef34095d-6a05-4870-9485-eb278f4c059c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Edwards, Paul N. "Why Build Computers? The Military Role in Computer Research." Chapter 2 in *The Closed World: Computers and the Politics of Discourse in Cold War America*. MIT Press, 1997. ISBN: 9780262550284. \[Preview with {{% resource_link "dca44216-9293-4b84-ace2-9ea628497cc6" "Google Books" %}}\]
 
 *Optional*
 
-Isaacson, Walter. "[Walter Isaacson on the Women of ENIAC](http://fortune.com/2014/09/18/walter-isaacson-the-women-of-eniac/)." *Fortune*, September 18, 2014.
+Isaacson, Walter. "{{% resource_link "f0b09cc4-9551-45d4-acc4-ebfa72e89f0f" "Walter Isaacson on the Women of ENIAC" %}}." *Fortune*, September 18, 2014.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -205,7 +205,7 @@ Markusen, Ann. "Cold War Workers, Cold War Communities." Chapter 2 in *Rethinkin
 
 *Film*
 
-[*Desk Set*](http://www.imdb.com/title/tt0050307/?ref_=fn_al_tt_1). Directed by Walter Lang. Color, 103 min. 1957.
+{{% resource_link "d12c167b-dea6-4d59-8bf9-3083e11536c7" "*Desk Set*" %}}. Directed by Walter Lang. Color, 103 min. 1957.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -213,17 +213,17 @@ Markusen, Ann. "Cold War Workers, Cold War Communities." Chapter 2 in *Rethinkin
 
 MIT and the Cold War
 
-*Guest Speaker* [*Professor David Kaiser*](http://web.mit.edu/sts/people/kaiser.html)*, MIT*
+*Guest Speaker* {{% resource_link "d52c9d42-48e6-40c7-8b79-d25c137b3385" "*Professor David Kaiser*" %}}*, MIT*
 
 {{< tdclose >}}{{< tdopen >}}
 
 *Reading*
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262518154) Kaiser, David, ed. "Elephant on the Charles: Postwar Growing Pains." Chapter 5 in *Becoming MIT: Moments of Decision*. MIT Press, 2012. ISBN: 9780262518154.
+{{% resource_link "f70f4b97-a4dd-492c-a5be-b56f793fddba" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kaiser, David, ed. "Elephant on the Charles: Postwar Growing Pains." Chapter 5 in *Becoming MIT: Moments of Decision*. MIT Press, 2012. ISBN: 9780262518154.
 
 *Optional*
 
-Kaiser, David. "[Turning Physicists into Quantum Mechanics](http://iopscience.iop.org/article/10.1088/2058-7058/20/5/33/meta)." *Physics World* 20, no. 5 (2007): 28–33.
+Kaiser, David. "{{% resource_link "fc4718f9-51a1-4bd1-a578-48887137f745" "Turning Physicists into Quantum Mechanics" %}}." *Physics World* 20, no. 5 (2007): 28–33.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -233,17 +233,17 @@ Organization Men and Their Critics
 
 *Readings*
 
-Menand, Louis. "[Fat Man: Herman Kahn and the Nuclear Age](http://www.newyorker.com/magazine/2005/06/27/fat-man)." *The New Yorker*, June 27, 2005.
+Menand, Louis. "{{% resource_link "c2fe4388-1175-4ef8-90cd-bc0bde9b2c44" "Fat Man: Herman Kahn and the Nuclear Age" %}}." *The New Yorker*, June 27, 2005.
 
-Mills, C. Wright. "The Higher Circles." Chapter 1 in *The Power Elite*. Oxford University Press, 2000. ISBN: 9780195133547. \[Preview with [Google Books](http://books.google.com/books?id=Kn_OAuktbq4C&pg=PA3=onepage)\]
+Mills, C. Wright. "The Higher Circles." Chapter 1 in *The Power Elite*. Oxford University Press, 2000. ISBN: 9780195133547. \[Preview with {{% resource_link "117bf1cf-e3e5-4dd6-a1bb-aee4543da58f" "Google Books" %}}\]
 
-Eisenhower, Dwight D. "[Military-Industrial Complex Speech](http://avalon.law.yale.edu/20th_century/eisenhower001.asp)."
+Eisenhower, Dwight D. "{{% resource_link "a437690d-286f-41c0-b498-aeb5b184a044" "Military-Industrial Complex Speech" %}}."
 
 Whyte, William H. "Introduction." Chapter 1 in *The Organization Man*. University of Pennsylvania Press, 2002. ISBN: 9780812218190.
 
 *Film (optional)*
 
-[*Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb*](http://www.imdb.com/title/tt0057012/?ref_=nv_sr_1). Directed by Stanley Kubrick. Black and White, 95 min. 1964.
+{{% resource_link "d0116296-0230-4253-a2b0-020d3931e3b0" "*Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb*" %}}. Directed by Stanley Kubrick. Black and White, 95 min. 1964.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Unit 4 -The Politics of Space and Race**
@@ -261,13 +261,13 @@ Suburbanization, White Flight, and Urban Crisis
 
 \[N\] Chapter 10.5: Betty Friedan, *The Feminine Mystique*, 1963.
 
-Jackson, Kenneth T. "The Baby Boom and the Age of the Subdivision." Chapter 13 in *Crabgrass Frontier: The Suburbanization of the United States*. Oxford University Press, 1987. ISBN: 9780195049831. \[Preview with [Google Books](http://books.google.com/books?id=lwave_qPlYUC&pg=PA235=onepage)\]
+Jackson, Kenneth T. "The Baby Boom and the Age of the Subdivision." Chapter 13 in *Crabgrass Frontier: The Suburbanization of the United States*. Oxford University Press, 1987. ISBN: 9780195049831. \[Preview with {{% resource_link "143eabd2-a721-4300-9138-521643638a2f" "Google Books" %}}\]
 
 Sugrue, Thomas J. "Introduction." In *The Origins of the Urban Crisis: Race and Inequality in Postwar Detroit*. Princeton University Press, 2014. ISBN: 9780691162553.
 
 *Film*
 
-[*Crisis in Levittown, PA*](https://archive.org/details/crisis_in_levittown_1957). Black and White, 31 min. 1957.
+{{% resource_link "73dac4cc-dba9-46c4-bcb4-eb08dcaa439b" "*Crisis in Levittown, PA*" %}}. Black and White, 31 min. 1957.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -277,13 +277,13 @@ The Malling of America
 
 *Readings*
 
-Cohen, Lizabeth. "[From Town Center to Shopping Center: The Reconfiguration of Community Marketplaces in Postwar America](http://www.jstor.org/stable/2169634)." *American Historical Review* 101, no. 4 (1996): 1050–81.
+Cohen, Lizabeth. "{{% resource_link "c7653db3-f2c2-4b4b-9ae2-caa8f82380d8" "From Town Center to Shopping Center: The Reconfiguration of Community Marketplaces in Postwar America" %}}." *American Historical Review* 101, no. 4 (1996): 1050–81.
 
 Hayden, Dolores. "Edge Nodes." Chapter 8 in *Building Suburbia: Green Fields and Urban Growth, 1820–2000*. Vintage, 2004. ISBN: 9780375727214.
 
 *Film*
 
-[*Shopping Can Be Fun: A New Concept in Merchandising*](https://archive.org/details/Shopping1957). Directed by George H. Kelley. Color, 17 min. 1957.
+{{% resource_link "846fe779-4747-4f3e-a34c-08b990a44ecb" "*Shopping Can Be Fun: A New Concept in Merchandising*" %}}. Directed by George H. Kelley. Color, 17 min. 1957.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -303,13 +303,13 @@ Race and the Space Race
 
 Petit, Michael D. "Ain't That A Trip? $50 Billion Shot Into Space," *Milwaukee Star Times*, April 27, 1972.
 
-Spigel, Lynn. "Outer Space and Inner Cities: African American Responses to NASA." In *Welcome to the Dreamhouse: Popular Media and Postwar Suburbs*. Duke University Press Books, 2001. ISBN: 9780822326960. \[Preview with [Google Books](http://books.google.com/books?id=gOOnclTiNUkC&pg=PA141=onepage)\]
+Spigel, Lynn. "Outer Space and Inner Cities: African American Responses to NASA." In *Welcome to the Dreamhouse: Popular Media and Postwar Suburbs*. Duke University Press Books, 2001. ISBN: 9780822326960. \[Preview with {{% resource_link "ef4722d1-865b-4fa0-a629-34d0044b2a0c" "Google Books" %}}\]
 
 Thomas, Pat. "Commentary: 'Why Wasn't a Black Astronaut in the Bunch?' Youngster Asks," *Soul City Times*, July 26, 1969.
 
 *Film*
 
-[*Space is the Place*](http://www.imdb.com/title/tt0072195/?ref_=fn_al_tt_1). Directed by John Coney. Color, 85 min. 1974.
+{{% resource_link "692948c5-57a7-4203-844e-ae762c48fa84" "*Space is the Place*" %}}. Directed by John Coney. Color, 85 min. 1974.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Unit 5 - The Global Cold War**
@@ -321,11 +321,11 @@ The Global Cold War and the Making of Three Worlds
 
 *Readings*
 
-Minh, Ho Chi. "[Declaration of Independence of the Democratic Republic of Vietnam - September 2, 1945](http://historymatters.gmu.edu/d/5139/)," *History Matters*, George Mason University.
+Minh, Ho Chi. "{{% resource_link "4a677e4b-0e2f-4b33-b18a-b6cbd767ada6" "Declaration of Independence of the Democratic Republic of Vietnam - September 2, 1945" %}}," *History Matters*, George Mason University.
 
 The Ministry of Foreign Affairs of the People's Republic of China Party Literature Research Center of the Central Committee of the Communist Party of China. "We Are In An Era When Imperialists Fear Us (May 3, 1960)." In *Mao Zedong on Diplomacy*. Foreign Languages Press, 1998. ISBN: 9787119011417.
 
-Westad, Odd Arne. "Creating the Third World: The United States Confronts Revolution." Chapter 4 in *The Global Cold War: Third World Interventions and the Making of Our Times*. Cambridge University Press, 2007. ISBN: 9780521703147. \[Preview with [Google Books](http://books.google.com/books?id=4T9dAAAAQBAJ&pg=PA110=onepage)\]
+Westad, Odd Arne. "Creating the Third World: The United States Confronts Revolution." Chapter 4 in *The Global Cold War: Third World Interventions and the Making of Our Times*. Cambridge University Press, 2007. ISBN: 9780521703147. \[Preview with {{% resource_link "579fa1b4-4e2e-4366-9943-0ca9ef2a0ad9" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -333,7 +333,7 @@ Westad, Odd Arne. "Creating the Third World: The United States Confronts Revolut
 
 China's Cold War
 
-*Guest Lecturer* [*Professor Christopher R. Leighton*](http://history.mit.edu/people/christopher-r-leighton)*, MIT*
+*Guest Lecturer* {{% resource_link "894b0eba-607a-435f-b1e2-e6058d57f748" "*Professor Christopher R. Leighton*" %}}*, MIT*
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -373,7 +373,7 @@ Cold War Civil Rights
 
 \[W\] Chapter 6: The Monroe Case: Conspiracy Against the Negro.
 
-Dudziak, Mary L. "[*Brown* as a Cold War Case](http://www.jstor.org/stable/3659611)." *Journal of American History* 91, no. 1 (2004): 32–42.
+Dudziak, Mary L. "{{% resource_link "e2d9c2a6-d2d0-4897-8d06-438e91cd9518" "*Brown* as a Cold War Case" %}}." *Journal of American History* 91, no. 1 (2004): 32–42.
 
 The Ministry of Foreign Affairs of the People's Republic of China Party Literature Research Center of the Central Committee of the Communist Party of China. "Statement in Support of the Struggle of the American Black People Against Racial Discrimination (August 8, 1963)." In *Mao Zedong on Diplomacy*. Foreign Languages Press, 1998. ISBN: 9787119011417.
 
@@ -397,7 +397,7 @@ Delinquents and Rebels: The 1950s as Prelude to the 1960s
 
 Bloom, Alexander, and Wini Breines, eds. "'Past as Prologue': The 1950s as an Introduction to the 1960s." In *Takin' It to the Streets: A Sixties Reader*. 4th edition. Oxford University Press, 2015. ISBN: 9780190250706.
 
-Crowther, Bosley. "[The Screen: Delinquency; 'Rebel Without Cause' Has Debut at Astor](http://www.nytimes.com/movie/review?res=9F02E0DB1F3AEF34BC4F51DFB667838E649EDE?)," *New York Times*, October 27, 1955.
+Crowther, Bosley. "{{% resource_link "c4ffb736-595c-4bc8-8b02-c980991c53d4" "The Screen: Delinquency; 'Rebel Without Cause' Has Debut at Astor" %}}," *New York Times*, October 27, 1955.
 
 David, Lester. "Newspaper Survey: Are You a Conformist or a Rebel?, 1959." In *Major Problems in American History Volume II: Since 1865: Documents and Essays*. 3rd edition. Edited by Elizabeth Cobbs Hoffman, Edward J. Blum, and Jon Gjerde. Wadsworth Publishing, 2011. ISBN: 9781111343163.
 
@@ -405,7 +405,7 @@ Gilbert, James. "Mass Culture and The Fear of Delinquency: The 1950s." *Journal 
 
 Isserman, Maurice, and Michael Kazin. "The Making of a Youth Culture." Chapter 8 in \_America Divided: The Civil War of the 1960\_s. 5th edition. Oxford University Press, 2015. ISBN: 9780190217181.
 
-Menand, Louis. "[Drive, He Wrote](http://www.newyorker.com/magazine/2007/10/01/drive-he-wrote)." *The New Yorker*, October 1, 2007.
+Menand, Louis. "{{% resource_link "ead46344-fb54-40de-9be9-f8201a9f2e12" "Drive, He Wrote" %}}." *The New Yorker*, October 1, 2007.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -429,9 +429,9 @@ Rethinking Nature in a Nuclear Age
 
 *Readings*
 
-Carson, Rachel. "A Fable For Tomorrow." Chapter 1 in *Silent Spring.* 50{{< sup "th" >}} Anniversary Edition. Houghton Mifflin Company, 2002. ISBN: 9780618249060. \[Preview with [Google Books](http://books.google.com/books?id=HeR1l0V0r54C&pg=PA1=onepage)\]
+Carson, Rachel. "A Fable For Tomorrow." Chapter 1 in *Silent Spring.* 50{{< sup "th" >}} Anniversary Edition. Houghton Mifflin Company, 2002. ISBN: 9780618249060. \[Preview with {{% resource_link "5c61ed02-d8ee-4b91-bd48-65e7ba1da91a" "Google Books" %}}\]
 
-———. "The Obligation to Endure." Chapter 2 in *Silent Spring.* 50{{< sup "th" >}} Anniversary Edition. Houghton Mifflin Company, 2002. ISBN: 9780618249060. \[Preview with [Google Books](http://books.google.com/books?id=HeR1l0V0r54C&pg=PA5=onepage)\]
+———. "The Obligation to Endure." Chapter 2 in *Silent Spring.* 50{{< sup "th" >}} Anniversary Edition. Houghton Mifflin Company, 2002. ISBN: 9780618249060. \[Preview with {{% resource_link "2d1e925d-9733-4654-bed7-d2c0d715b910" "Google Books" %}}\]
 
 May, Timothy. "The End of Enthusiasm: Science and Technology." In *The Columbia Guide to American Life in the 1960s.* Edited by David Farber and Beth Bailey. Columbia University Press, 2003. ISBN: 9780231113731.
 
@@ -445,9 +445,9 @@ Dr. Ehrlich, Paul R. "The Problem." Chapter 1 in *The Population Bomb*. Ballanti
 
 *Optional*
 
-Carson, Rachel. "Elixirs of Death." Chapter 3 in *Silent Spring.* 50{{< sup "th" >}} Anniversary Edition. Houghton Mifflin Company, 2002. ISBN: 9780618249060. \[Preview with [Google Books](http://books.google.com/books?id=HeR1l0V0r54C&pg=PA15=onepage)\]
+Carson, Rachel. "Elixirs of Death." Chapter 3 in *Silent Spring.* 50{{< sup "th" >}} Anniversary Edition. Houghton Mifflin Company, 2002. ISBN: 9780618249060. \[Preview with {{% resource_link "3362a65e-e458-4186-b30b-7602229ce2ce" "Google Books" %}}\]
 
-Holden, Constance. "[Ehrlich versus Commoner: Environmental Fallout](http://dx.doi.org/10.1126/science.177.4045.245)." *Science, New Series* 177, no. 4045 (1972): 245–47.
+Holden, Constance. "{{% resource_link "6ceb71f1-f29d-47f8-896e-bd48b34cd17b" "Ehrlich versus Commoner: Environmental Fallout" %}}." *Science, New Series* 177, no. 4045 (1972): 245–47.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -457,9 +457,9 @@ The Return of Fear and the Anti-Nuclear Movement
 
 *Readings*
 
-Davidon, Ann Morrissett. "The U.S. Anti-Nuclear Movement." *Bulletin of the Atomic Scientists* 35, no. 10 (1979): 45–48. \[Preview with [Google Books](https://books.google.com.au/books?id=BQsAAAAAMBAJ&pg=PA45&lpg=PA45&dq=the+us+antinuclear+movement+1979+bulletin&source=bl&ots=OtTqqzw26T&sig=GfdvhWijgsDFEP-k8z2UPK-zLXE&hl=en&ei=99N3TeTrFISgvQPnjo3LBQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CBoQ6AEwAA#v=onepage&q&f=false)\]
+Davidon, Ann Morrissett. "The U.S. Anti-Nuclear Movement." *Bulletin of the Atomic Scientists* 35, no. 10 (1979): 45–48. \[Preview with {{% resource_link "dc6c1050-2aef-457b-8856-f9aa6e11ff61" "Google Books" %}}\]
 
-Rubinson, Paul. "[The Global Effects of Nuclear Winter: Science and Antinuclear Protest in the United States and the Soviet Union during the 1980s](http://dx.doi.org/10.1080/14682745.2012.759560)." *Cold War History* 14, no. 1 (2014): 47–69.
+Rubinson, Paul. "{{% resource_link "f9204ad9-1b0b-4e51-b345-18fda23c8387" "The Global Effects of Nuclear Winter: Science and Antinuclear Protest in the United States and the Soviet Union during the 1980s" %}}." *Cold War History* 14, no. 1 (2014): 47–69.
 
 Walker, J. Samuel. "From the 'Atomic-Age' to the 'Anti-Nuclear Age': Energy in Politics, Diplomacy, and Culture." Chapter 26 in *A Companion to Post-1945 America.* Edited by Jean-Christophe Agnew and Roy Rosenzweig. Wiley-Blackwell, 2006. ISBN: 9781405149846.
 
@@ -475,16 +475,16 @@ Legacies of the Cold War and the Unfolding Nuclear Age
 
 *Readings*
 
-May, Elaine Tyler. "[Security Against Democracy: The Legacy of the Cold War at Home](http://jah.oxfordjournals.org/content/97/4/939.short)." *Journal of American History* 97, no. 4 (2011): 939–57.
+May, Elaine Tyler. "{{% resource_link "e56efeb4-bc85-406f-a9d0-febab029168c" "Security Against Democracy: The Legacy of the Cold War at Home" %}}." *Journal of American History* 97, no. 4 (2011): 939–57.
 
-Rogers, Paul. ["A Century on the Edge: From Cold War to Hot World, 1945–2045." (PDF)](https://ciaotest.cc.columbia.edu/journals/riia/v90i1/f_0029981_24263.pdf) *International Affairs* 90, no. 1 (2014): 93–106.
+Rogers, Paul. {{% resource_link "f31e894c-141a-4167-9171-8c309cacb8b0" "\"A Century on the Edge: From Cold War to Hot World, 1945–2045.\" (PDF)" %}} *International Affairs* 90, no. 1 (2014): 93–106.
 
 *Skim*
 
-Waters, C.N., James Syvitski, et al. "[Can Nuclear Weapons Fallout Mark the Beginning of the Anthropocene Epoch?](http://thebulletin.org/2015/may/can-nuclear-weapons-fallout-mark-beginning-anthropocene-epoch8295)" *Bulletin of the Atomic Scientists* 71, no. 3 (2015): 46–57.
+Waters, C.N., James Syvitski, et al. "{{% resource_link "05e440bd-bed2-4215-ab36-5e5c49ca49fd" "Can Nuclear Weapons Fallout Mark the Beginning of the Anthropocene Epoch?" %}}" *Bulletin of the Atomic Scientists* 71, no. 3 (2015): 46–57.
 
 *Optional*
 
-van Munster, Rens, and Casper Sylvest. "\[Pro-Nuclear Environmentalism: Should We Learn to Stop Worrying and Love Nuclear Energy?\]([http://dx.doi.org/](http://dx.doi.org/) 10.1353/tech.2015.0107)" *Technology and Culture* 56, no. 4 (2015): 789–811.
+van Munster, Rens, and Casper Sylvest. "\[Pro-Nuclear Environmentalism: Should We Learn to Stop Worrying and Love Nuclear Energy?\]({{% resource_link "7bc9efd7-4d53-4829-8014-e2660018dcf3" "http://dx.doi.org/" %}} 10.1353/tech.2015.0107)" *Technology and Culture* 56, no. 4 (2015): 789–811.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
