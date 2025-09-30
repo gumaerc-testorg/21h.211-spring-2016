@@ -171,7 +171,7 @@ Humans, Machines, and the Reorganization of Work
 
 MIT and the Cold War
 
-_Guest Speaker [Professor David Kaiser](http://web.mit.edu/sts/people/kaiser.html), MIT_
+_Guest Speaker {{% resource_link "d52c9d42-48e6-40c7-8b79-d25c137b3385" "Professor David Kaiser" %}}, MIT_
 
 
 {{< tdclose >}}
@@ -261,7 +261,7 @@ The Global Cold War and the Making of Three Worlds
 
 China's Cold War
 
-_Guest Lecturer [Professor Christopher R. Leighton](http://history.mit.edu/people/christopher-r-leighton), MIT_
+_Guest Lecturer {{% resource_link "894b0eba-607a-435f-b1e2-e6058d57f748" "Professor Christopher R. Leighton" %}}, MIT_
 
 
 {{< tdclose >}}
